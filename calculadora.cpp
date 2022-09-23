@@ -1,4 +1,4 @@
-//creador: Francisco Garcia
+// creador: Francisco Garcia
 #include<iostream>
 using namespace std; 
 
