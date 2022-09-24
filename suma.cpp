@@ -3,12 +3,12 @@
 using namespace std;
 int main()
 {
-	float x,y,z;
-	cout<<"Ingrese 2 numeros x y :";
-	cin>>x>>y;
-	z=x+y;
+	float V_x,V_y,V_z;
+	cout<<"Ingrese 2 numeros V_x V_y :";
+	cin>>V_x>>V_y;
+	V_z=V_x+V_y;
 	cout<<"El resultado es :";
-	cout<<z;
+	cout<<V_z;
 	return 0;
 }
 
